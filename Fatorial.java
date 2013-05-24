@@ -1,4 +1,4 @@
-public class FatorialRecursiva {	
+public class Fatorial {	
 	public static long fatorial(long n) {
 		if(n==0)return 1;
 		else return n*fatorial(n-1);				
