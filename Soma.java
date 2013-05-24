@@ -8,7 +8,7 @@ public class Soma {
 
 		}
 
-		System.out.println("Soma: " + somaVetor(vetor, vetor.length));
+		System.out.println(somaVetor(vetor, vetor.length));
 
 	}
 
