@@ -6,6 +6,6 @@ public class Fatorial {
 	
 	public static void main(String[] args) {
 		long n = Integer.parseInt(args[0]);
-		System.out.println("O Fatorial de "+ n +" eh: "+fatorial(n));		
+		System.out.println(fatorial(n));		
 	}
 }
